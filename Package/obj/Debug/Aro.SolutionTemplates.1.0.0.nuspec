@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Aro.SolutionTemplates</id>
+    <version>1.0.0</version>
+    <title>Ready to use solution templates</title>
+    <authors>Alireza Oroumand</authors>
+    <owners>Alireza Oroumand</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Templates to create new solutin using onion architecture or 3 layer.</description>
+    <tags>dotnet-new templates</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <repository type="git" url="https://github.com/oroumand/SolutionTemplates.git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\.template.config\template.json" target="content\Templates\OnionArchitecture\.template.config\template.json" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\.vs\OnionArchitecture\config\applicationhost.config" target="content\Templates\OnionArchitecture\.vs\OnionArchitecture\config\applicationhost.config" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\.vs\OnionArchitecture\DesignTimeBuild\.dtbcache" target="content\Templates\OnionArchitecture\.vs\OnionArchitecture\DesignTimeBuild\.dtbcache" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\.vs\OnionArchitecture\v16\.suo" target="content\Templates\OnionArchitecture\.vs\OnionArchitecture\v16\.suo" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\.vs\OnionArchitecture\v16\Server\sqlite3\db.lock" target="content\Templates\OnionArchitecture\.vs\OnionArchitecture\v16\Server\sqlite3\db.lock" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\.vs\OnionArchitecture\v16\Server\sqlite3\storage.ide" target="content\Templates\OnionArchitecture\.vs\OnionArchitecture\v16\Server\sqlite3\storage.ide" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\OnionArchitecture.sln" target="content\Templates\OnionArchitecture\OnionArchitecture.sln" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\01. Core\OnionArchitecture.Core.ApplicationServices\OnionArchitecture.Core.ApplicationServices.csproj" target="content\Templates\OnionArchitecture\src\01. Core\OnionArchitecture.Core.ApplicationServices\OnionArchitecture.Core.ApplicationServices.csproj" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\01. Core\OnionArchitecture.Core.ApplicationServices\WeatherForecasts\RandomForecastsGenerator.cs" target="content\Templates\OnionArchitecture\src\01. Core\OnionArchitecture.Core.ApplicationServices\WeatherForecasts\RandomForecastsGenerator.cs" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\01. Core\OnionArchitecture.Core.Domain\OnionArchitecture.Core.Domain.csproj" target="content\Templates\OnionArchitecture\src\01. Core\OnionArchitecture.Core.Domain\OnionArchitecture.Core.Domain.csproj" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\01. Core\OnionArchitecture.Core.Domain\WeatherForecasts\Entities\WeatherForecast.cs" target="content\Templates\OnionArchitecture\src\01. Core\OnionArchitecture.Core.Domain\WeatherForecasts\Entities\WeatherForecast.cs" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\01. Core\OnionArchitecture.Core.Domain\WeatherForecasts\Services\IRandomForecastsGenerator.cs" target="content\Templates\OnionArchitecture\src\01. Core\OnionArchitecture.Core.Domain\WeatherForecasts\Services\IRandomForecastsGenerator.cs" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\02. Infra\Data\OnionArchitecture.Infra.Data.SqlServer\OnionArchitecture.Infra.Data.SqlServer.csproj" target="content\Templates\OnionArchitecture\src\02. Infra\Data\OnionArchitecture.Infra.Data.SqlServer\OnionArchitecture.Infra.Data.SqlServer.csproj" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\02. Infra\Data\OnionArchitecture.Infra.Data.SqlServer\OnionArchitectureDbContext.cs" target="content\Templates\OnionArchitecture\src\02. Infra\Data\OnionArchitecture.Infra.Data.SqlServer\OnionArchitectureDbContext.cs" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\appsettings.Development.json" target="content\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\appsettings.Development.json" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\appsettings.json" target="content\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\appsettings.json" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\Controllers\WeatherForecastController.cs" target="content\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\Controllers\WeatherForecastController.cs" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\OnionArchitecture.EndPoints.Api.csproj" target="content\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\OnionArchitecture.EndPoints.Api.csproj" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\Program.cs" target="content\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\Program.cs" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\Properties\launchSettings.json" target="content\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\Properties\launchSettings.json" />
+    <file src="C:\Users\Alireza\source\repos\SolutionTemplates\Package\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\Startup.cs" target="content\Templates\OnionArchitecture\src\03. EndPoints\OnionArchitecture.EndPoints.Api\Startup.cs" />
+  </files>
+</package>

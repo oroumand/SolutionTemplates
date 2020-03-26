@@ -1,0 +1,16 @@
+C:\Users\Alireza\source\repos\Onion Template\Package\bin\Debug\netstandard2.1\templatepack.deps.json
+C:\Users\Alireza\source\repos\Onion Template\Package\bin\Debug\netstandard2.1\templatepack.dll
+C:\Users\Alireza\source\repos\Onion Template\Package\bin\Debug\netstandard2.1\templatepack.pdb
+C:\Users\Alireza\source\repos\Onion Template\Package\obj\Debug\netstandard2.1\templatepack.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Onion Template\Package\obj\Debug\netstandard2.1\templatepack.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Onion Template\Package\obj\Debug\netstandard2.1\templatepack.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Onion Template\Package\obj\Debug\netstandard2.1\templatepack.dll
+C:\Users\Alireza\source\repos\Onion Template\Package\obj\Debug\netstandard2.1\templatepack.pdb
+C:\Users\Alireza\source\repos\SolutionTemplates\Package\bin\Debug\netstandard2.1\templatepack.deps.json
+C:\Users\Alireza\source\repos\SolutionTemplates\Package\bin\Debug\netstandard2.1\templatepack.dll
+C:\Users\Alireza\source\repos\SolutionTemplates\Package\bin\Debug\netstandard2.1\templatepack.pdb
+C:\Users\Alireza\source\repos\SolutionTemplates\Package\obj\Debug\netstandard2.1\templatepack.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\SolutionTemplates\Package\obj\Debug\netstandard2.1\templatepack.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\SolutionTemplates\Package\obj\Debug\netstandard2.1\templatepack.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\SolutionTemplates\Package\obj\Debug\netstandard2.1\templatepack.dll
+C:\Users\Alireza\source\repos\SolutionTemplates\Package\obj\Debug\netstandard2.1\templatepack.pdb

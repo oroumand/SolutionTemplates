@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\01. Core\OnionArchitecture.Core.ApplicationServices\OnionArchitecture.Core.ApplicationServices.csproj" />
+    <ProjectReference Include="..\..\01. Core\OnionArchitecture.Core.Domain\OnionArchitecture.Core.Domain.csproj" />
+    <ProjectReference Include="..\..\02. Infra\Data\OnionArchitecture.Infra.Data.SqlServer\OnionArchitecture.Infra.Data.SqlServer.csproj" />
+  </ItemGroup>
+
+
+</Project>

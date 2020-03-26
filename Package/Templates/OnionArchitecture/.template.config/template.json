@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Alireza Oroumand",
+    "classifications": [ "Common", "Solution" ],
+    "identity": "ARO.OnionArchitecture.SolutionTemplate.CSharp",
+    "name": "Onion Architecture Solution Template",
+    "shortName": "AroOnionArc",
+    "tags": {
+        "language": "C#" 
+    },
+    "sourceName": "OnionArchitecture", 
+    "preferNameDirectory" :true
+  }
